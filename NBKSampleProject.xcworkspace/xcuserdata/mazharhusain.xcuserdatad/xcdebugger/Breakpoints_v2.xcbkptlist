@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A841768A-02C3-44F8-9FF1-9EFD0E7F37B3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A3178D2-AEB3-40CA-A596-60F8BB8343A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "setupCucumberish()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A3178D2-AEB3-40CA-A596-60F8BB8343A0 - 80cadf0fae31b88a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "8A3178D2-AEB3-40CA-A596-60F8BB8343A0 - 80cadf0fae31b8d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "8A3178D2-AEB3-40CA-A596-60F8BB8343A0 - 80cadf0fae31b8d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6E53164-3EB3-43A7-B376-1D12B5A0BE3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "setupCucumberish()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03E6539F-5A52-4E06-AFE6-55DB72F6A074"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "setupCucumberish()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03E6539F-5A52-4E06-AFE6-55DB72F6A074 - e481a9bf889260de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "415">
+               </Location>
+               <Location
+                  uuid = "03E6539F-5A52-4E06-AFE6-55DB72F6A074 - e481a9bf889260ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "995">
+               </Location>
+               <Location
+                  uuid = "03E6539F-5A52-4E06-AFE6-55DB72F6A074 - 5838242ff2f4d07a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "995">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F8A0580-75B6-4EC8-A233-D0B2F025652B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "setupCucumberish()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F8A0580-75B6-4EC8-A233-D0B2F025652B - 5838242ff2f4d05b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8F8A0580-75B6-4EC8-A233-D0B2F025652B - 5838242ff2f4d099"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8F8A0580-75B6-4EC8-A233-D0B2F025652B - bff6be5fdd69b802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DB42FA1-E104-4DDE-B9B1-64E7BB959174"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "setupCucumberish()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DB42FA1-E104-4DDE-B9B1-64E7BB959174 - e481a9bf889260b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  uuid = "5DB42FA1-E104-4DDE-B9B1-64E7BB959174 - 5838242ff2f4d03c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in static NBKSampleProjectUITests.CucumberishInitializer.setupCucumberish() -&gt; ()"
+                  moduleName = "NBKSampleProjectUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mazharhusain/Downloads/NBKSampleProject/NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "439">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B707800A-4B6D-4697-A6AD-973434FAA8F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NBKSampleProjectUITests/NBKSampleProjectUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "setupCucumberish()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

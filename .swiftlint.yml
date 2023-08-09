@@ -1,0 +1,15 @@
+opt_in_rules:
+  - trailing_whitespace
+  - indentation
+  - function_names
+
+disabled_rules:
+  - line_length
+
+trailing_whitespace: warning
+indentation: spaces
+excluded:
+  - Pods
+  - NBKSampleProject/Sources/Models/NewsModel.swift
+  - NBKSampleProject/Sources/Models/SourcesModel.swift
+  - NBKSampleProjectUITests/NBKSampleProjectUITests.swift
